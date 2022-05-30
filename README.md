@@ -2,9 +2,11 @@
 
 ## 1. Example
 ---
-### 1-1 HellowWorld
+### 1-2 HellowWorld
 - xCode 사용하여 Swift 프로젝트를 생성하고 스토리보드를 꾸미고 코딩하고 실행해보는 예제
 
+### 1-3 ImageView
+- 텍스트와 버튼으로만 이루어져 있는 앱이 아닌 이미지를 넣어 이미지 뷰를 설정해보는 예제
 
 ## 2. Convension Role
 ---
